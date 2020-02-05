@@ -13,3 +13,27 @@
 2. Firebase Storage linked to the site.
 3. Firebase should have public access to read and write data to firebase.
 
+
+## Data structure in firebase cloud:
+
+Data collection : GobieStore
+
+Data Document :  (string) ("SID"+ random) 
+
+SID1213 :  {
+
+      id :"SID2123" (string)
+      name : "KFC"  
+      screen1 : "IMG_0003.JPEG" (string)
+      screen2 : "UID1418.jpg" (string)
+      screen3 : "UID1212.jpg" (string)
+      }
+      
+## Image storage :
+
+images/imagename
+
+ie. 'images/'+ Imagename
+
+  
+  
